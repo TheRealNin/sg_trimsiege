@@ -1,8 +1,8 @@
 name        = "sg_trimsiege"
-source_dir  = "source/"
-output_dir  = "output/"
-description = [=[sg_trimsiege
-
+source_dir  = "source"
+output_dir  = "output"
+description = [=[sg_trimsiege
+
 ModID: 39df5dd5]=]
 image       = "preview.jpg"
 tag_modtype = "Map"
